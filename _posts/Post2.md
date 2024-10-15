@@ -1,0 +1,5 @@
+---
+title: "CNC"
+date: 2024-10-15
+---
+I learned how to use a Haas CNC CM-1
